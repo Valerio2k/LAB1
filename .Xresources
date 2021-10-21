@@ -1,0 +1,10 @@
+XTerm*utmpInhibit: false
+XTerm*colorMode: true
+XTerm*colorBD: blue
+XTerm*colorULMode: true
+XTerm*colorUL: blue
+XTerm*dynamicColors: true
+XTerm*saveLines: 1000
+XTerm*scrollBar: true
+Clock*transparent: true
+Clock*geometry: -0+0
